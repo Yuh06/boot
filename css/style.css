@@ -1,0 +1,26 @@
+button:active{
+    color: royalblue;
+}
+
+
+
+p {
+    color: blue;
+}
+p .red-color{
+color: red;
+}
+#third-paragraph{
+    color: blue;
+
+}
+
+.parent p:first-child{
+    color: seagreen;
+}
+#java2002 > .parent p {
+    color: rgb(196, 170, 68);
+}
+a:active{
+    color: red;
+}
